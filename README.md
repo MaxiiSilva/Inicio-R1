@@ -1,0 +1,1 @@
+Adentro de la carpeta de Componentes, están agregadas las actividades dadas. Las cuales son: -EL punto 1 de Hola mundo. -El punto 2 de Tarjeta de Presentación. -El punto 3 del contador. -El punto 4 Listas de tareas. -El punto 5 el formulario
